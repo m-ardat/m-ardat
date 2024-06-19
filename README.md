@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Привет👋 Моё имя Максим!</h1>
+<h1 align="center">Привет! Моё имя Максим!</h1>
 
 <div align="center">
   <a href="https://t.me/m_ardat" target="_blank">
