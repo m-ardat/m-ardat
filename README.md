@@ -38,4 +38,4 @@
 </div>
 
 
-![й](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m-ardat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m-ardat&theme=solarized_dark)
