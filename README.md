@@ -20,7 +20,7 @@
 - Прокачиваюсь в date analysis и data science🚀
 
 <div align="left">
-  <h3 align="left"> My Stack:</h3>
+  <h3 align="left"> СТЕК:</h3>
   <div align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
