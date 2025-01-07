@@ -30,7 +30,7 @@
 <div align="left">
   <h3 align="left"> Technology Stack:</h3>
   <div align="left">
-    <img src="https://github.com/m-ardat/Logo/blob/main/Oracle.png" title="SQLOracle" alt="SQLOracle" width="100" height="40"/>&nbsp;
+    <img src="https://github.com/m-ardat/Logo/blob/main/Oracle.png" title="Oracle SQL" alt="Oracle SQL" width="100" height="40"/>&nbsp;
     <img src="https://github.com/m-ardat/Logo/blob/main/Tableau.png" title="Tableau" alt="Tableau" width="100" height="40"/>&nbsp;
     <img src="https://github.com/m-ardat/Logo/blob/main/python.png" title="Python" alt="Python" width="100" height="40"/>&nbsp;
     <img src="https://github.com/m-ardat/Logo/blob/main/NumPy.png" title="Numpy" alt="Numpy" width="100" height="40"/>&nbsp;
