@@ -38,11 +38,13 @@
     <img src="https://github.com/m-ardat/Logo/blob/main/matplotlib.png" title="matplotlib" alt="matplotlib" width="96" height="40"/>&nbsp;
     <img src="https://github.com/m-ardat/Logo/blob/main/seaborn.png" title="seaborn" alt="seaborn" width="96" height="40"/>&nbsp;
     <img src="https://github.com/m-ardat/Logo/blob/main/plotly.png" title="plotly" alt="plotly" width="96" height="40"/>&nbsp;
+    <img src="https://github.com/m-ardat/Logo/blob/main/PostgreSQL.png" title="PostgreSQL" alt="PostgreSQL" width="96" height="40"/>&nbsp;
+    
     <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" alt="scikitlearn" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="streamlit" alt="streamlit" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+    
 </div>
