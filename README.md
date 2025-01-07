@@ -35,8 +35,9 @@
     <img src="https://github.com/m-ardat/Logo/blob/main/python.png" title="Python" alt="Python" width="100" height="40"/>&nbsp;
     <img src="https://github.com/m-ardat/Logo/blob/main/NumPy.png" title="Numpy" alt="Numpy" width="100" height="40"/>&nbsp;
     <img src="https://github.com/m-ardat/Logo/blob/main/pandas.png" title="Pandas" alt="Pandas" width="100" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="plotly" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/m-ardat/Logo/blob/main/matplotlib.png" title="matplotlib" alt="matplotlib" width="100" height="40"/>&nbsp;
+    <img src="https://github.com/m-ardat/Logo/blob/main/seaborn.png" title="seaborn" alt="seaborn" width="100" height="40"/>&nbsp;
+    <img src="https://github.com/m-ardat/Logo/blob/main/plotly.png" title="plotly" alt="plotly" width="100" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" alt="scikitlearn" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="streamlit" alt="streamlit" width="40" height="40"/>&nbsp;
