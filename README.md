@@ -39,6 +39,7 @@
     <img src="https://github.com/m-ardat/Logo/blob/main/seaborn.png" title="seaborn" alt="seaborn" width="96" height="40"/>&nbsp;
     <img src="https://github.com/m-ardat/Logo/blob/main/plotly.png" title="plotly" alt="plotly" width="96" height="40"/>&nbsp;
     <img src="https://github.com/m-ardat/Logo/blob/main/PostgreSQL.png" title="PostgreSQL" alt="PostgreSQL" width="96" height="40"/>&nbsp;
+    <img src="https://github.com/m-ardat/Logo/blob/main/scikit learn.png" title="scikitlearn" alt="scikitlearn" width="96" height="40"/>&nbsp;
     
     <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" alt="scikitlearn" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>
