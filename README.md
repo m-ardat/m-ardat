@@ -27,7 +27,7 @@
 ---
 
 <div align="left">
-  <h3 align="left"> Technology Stack:</h3>
+  <h3 align="left"> Стек:</h3>
   <div align="left">
     <img src="https://github.com/m-ardat/Logo/blob/main/Oracle.png" title="Oracle SQL" alt="Oracle SQL" width="96" height="40"/>&nbsp;
     <img src="https://github.com/m-ardat/Logo/blob/main/Tableau.png" title="Tableau" alt="Tableau" width="96" height="40"/>&nbsp;
