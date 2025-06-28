@@ -14,9 +14,6 @@
   </a>
 </div>
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=m-ardat&style=flat-square&color=green" alt=""/>
-</div>
 
 ---
 
