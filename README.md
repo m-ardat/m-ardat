@@ -31,12 +31,7 @@
     <img src="https://github.com/m-ardat/Logo/blob/main/pandas.png" title="Pandas" alt="Pandas" width="96" height="40"/>&nbsp;
     <img src="https://github.com/m-ardat/Logo/blob/main/Streamlit.png" title="Streamlit" alt="Streamlit" width="96" height="40"/>&nbsp;
     <img src="https://github.com/m-ardat/Logo/blob/main/seaborn.png" title="Seaborn" alt="Seaborn" width="96" height="40"/>&nbsp;
+    <img src="https://github.com/m-ardat/Logo/blob/main/matplotlib.png" title="Matplotlib" alt="Matplotlib" width="96" height="40"/>&nbsp;
     <img src="https://github.com/m-ardat/Logo/blob/main/Oracle.png" title="Oracle SQL" alt="Oracle SQL" width="96" height="40"/>&nbsp;
     <img src="https://github.com/m-ardat/Logo/blob/main/Tableau.png" title="Tableau" alt="Tableau" width="96" height="40"/>&nbsp;
-    <img src="https://github.com/m-ardat/Logo/blob/main/NumPy.png" title="Numpy" alt="Numpy" width="96" height="40"/>&nbsp;
-    <img src="https://github.com/m-ardat/Logo/blob/main/matplotlib.png" title="matplotlib" alt="matplotlib" width="96" height="40"/>&nbsp;
-    <img src="https://github.com/m-ardat/Logo/blob/main/plotly.png" title="plotly" alt="plotly" width="96" height="40"/>&nbsp;
-    <img src="https://github.com/m-ardat/Logo/blob/main/PostgreSQL.png" title="PostgreSQL" alt="PostgreSQL" width="96" height="40"/>&nbsp;
-    <img src="https://github.com/m-ardat/Logo/blob/main/scikit learn.png" title="scikitlearn" alt="scikitlearn" width="96" height="40"/>&nbsp;
-    
 </div>
