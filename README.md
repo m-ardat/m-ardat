@@ -26,6 +26,7 @@
 <div align="left">
   <h3 align="left"> Стек:</h3>
   <div align="left">
+    /* В столбик 8 колонок */
     <img src="https://github.com/m-ardat/Logo/blob/main/Oracle.png" title="Oracle SQL" alt="Oracle SQL" width="96" height="40"/>&nbsp;
     <img src="https://github.com/m-ardat/Logo/blob/main/Tableau.png" title="Tableau" alt="Tableau" width="96" height="40"/>&nbsp;
     <img src="https://github.com/m-ardat/Logo/blob/main/python.png" title="Python" alt="Python" width="96" height="40"/>&nbsp;
