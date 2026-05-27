@@ -14,7 +14,6 @@
   </a>
 </div>
 
-
 ---
 
 ### Обо мне:
@@ -30,6 +29,8 @@
     <img src="https://github.com/m-ardat/Logo/blob/main/Python.svg" width="48" height="48" alt="Python"/>
     <img src="https://github.com/m-ardat/Logo/blob/main/Polars.svg" width="48" height="48" alt="Polars"/>
     <img src="https://github.com/m-ardat/Logo/blob/main/Streamlit.svg" width="48" height="48" alt="Streamlit"/>
+    <img src="https://github.com/m-ardat/Logo/blob/main/Pandas.svg" width="48" height="48" alt="Pandas"/>
+    <img src="https://github.com/m-ardat/Logo/blob/main/Seaborn.svg" width="48" height="48" alt="Seaborn"/>
   </div>
 
   <div style="display:flex; gap:8px;">
