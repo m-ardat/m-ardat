@@ -24,15 +24,23 @@
 ---
 
 <div align="left">
-  <h3 align="left"> Стек:</h3>
-  <div align="left">
-    <img src="https://github.com/m-ardat/Logo/blob/main/Python.svg" title="Python" alt="Python"/>&nbsp;
-    <img src="https://github.com/m-ardat/Logo/blob/main/Polars.svg" title="Polars" alt="Polars" width="48" height="48"/>&nbsp;
-    
-    <img src="https://github.com/m-ardat/Logo/blob/main/pandas.png" title="Pandas" alt="Pandas" width="96" height="40"/>&nbsp;
-    <img src="https://github.com/m-ardat/Logo/blob/main/Streamlit.png" title="Streamlit" alt="Streamlit" width="96" height="40"/>&nbsp;
-    <img src="https://github.com/m-ardat/Logo/blob/main/seaborn.png" title="Seaborn" alt="Seaborn" width="96" height="40"/>&nbsp;
-    <img src="https://github.com/m-ardat/Logo/blob/main/matplotlib.png" title="Matplotlib" alt="Matplotlib" width="96" height="40"/>&nbsp;
-    <img src="https://github.com/m-ardat/Logo/blob/main/Oracle.png" title="Oracle SQL" alt="Oracle SQL" width="96" height="40"/>&nbsp;
-    <img src="https://github.com/m-ardat/Logo/blob/main/Tableau.png" title="Tableau" alt="Tableau" width="96" height="40"/>&nbsp;
+  <h3>Стек:</h3>
+<div>
+  <div style="display:flex; gap:8px; margin-bottom:8px;">
+    <img src="https://github.com/m-ardat/Logo/blob/main/Python.svg" width="48" height="48" alt="Python"/>
+    <img src="https://github.com/m-ardat/Logo/blob/main/Polars.svg" width="48" height="48" alt="Polars"/>
+    <img src="https://github.com/m-ardat/Logo/blob/main/Streamlit.svg" width="48" height="48" alt="Streamlit"/>
+  </div>
+
+  <div style="display:flex; gap:8px;">
+    <img src="https://github.com/m-ardat/Logo/blob/main/SQL.png" width="48" height="48" alt="SQL"/>
+    <img src="https://github.com/m-ardat/Logo/blob/main/ORACLE.svg" width="48" height="48" alt="ORACLE"/>
+    <img src="https://github.com/m-ardat/Logo/blob/main/PL-SQL.png" width="48" height="48" alt="PL/SQL"/>
+  </div>
+
+  <div style="display:flex; gap:8px;">
+    <img src="https://github.com/m-ardat/Logo/blob/main/VISIOLOGY.webp" width="48" height="48" alt="VISIOLOGY"/>
+    <img src="https://github.com/m-ardat/Logo/blob/main/Tableau.svg" width="48" height="48" alt="Tableau"/>
+    <img src="https://github.com/m-ardat/Logo/blob/main/Excel.svg" width="48" height="48" alt="Excel"/>
+  </div>
 </div>
