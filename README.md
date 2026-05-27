@@ -27,8 +27,8 @@
   <h3 align="left"> Стек:</h3>
   <div align="left">
     <img src="https://github.com/m-ardat/Logo/blob/main/Python.svg" title="Python" alt="Python"/>&nbsp;
-    <img src="https://github.com/m-ardat/Logo/blob/main/python.png" title="Python" alt="Python" width="96" height="40"/>&nbsp;
-    <img src="https://github.com/m-ardat/Logo/blob/main/polars.png" title="Polars" alt="Polars" width="96" height="40"/>&nbsp;
+    <img src="https://github.com/m-ardat/Logo/blob/main/Polars.png" title="Polars" alt="Polars"/>&nbsp;
+    
     <img src="https://github.com/m-ardat/Logo/blob/main/pandas.png" title="Pandas" alt="Pandas" width="96" height="40"/>&nbsp;
     <img src="https://github.com/m-ardat/Logo/blob/main/Streamlit.png" title="Streamlit" alt="Streamlit" width="96" height="40"/>&nbsp;
     <img src="https://github.com/m-ardat/Logo/blob/main/seaborn.png" title="Seaborn" alt="Seaborn" width="96" height="40"/>&nbsp;
