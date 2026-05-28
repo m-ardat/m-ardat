@@ -34,9 +34,9 @@
   </div>
 
   <div style="display:flex; gap:8px;">
-    <img src="https://github.com/m-ardat/Logo/blob/main/SQL.png" width="48" height="48" alt="SQL"/>
+    <img src="https://github.com/m-ardat/Logo/blob/main/SQL.svg" width="48" height="48" alt="SQL"/>
     <img src="https://github.com/m-ardat/Logo/blob/main/ORACLE.svg" width="48" height="48" alt="ORACLE"/>
-    <img src="https://github.com/m-ardat/Logo/blob/main/PL-SQL.png" width="48" height="48" alt="PL/SQL"/>
+    <img src="https://github.com/m-ardat/Logo/blob/main/PL-SQL.webp" width="48" height="48" alt="PL/SQL"/>
   </div>
 
   <div style="display:flex; gap:8px;">
